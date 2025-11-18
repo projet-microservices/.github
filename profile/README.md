@@ -7,4 +7,4 @@
 **Product Backlog** : [Google Sheet](<https://docs.google.com/spreadsheets/d/1rotyNUHzsd2pcWUWXSL7FHuLs_wxaF4lmORMQ4DHWtE/edit?usp=sharing>)  
 **MLD** : [Whimsical](https://whimsical.com/mld-projet-microservices-KpbpoL2sLGaG9zydzqPg6c@6HYTAunKLgTUMHHf26WmxqBfaxnLKXMHRTxn9M36Ej8irw9)  
 **POSTMAN** : [Postman](https://lucas-3209020.postman.co/workspace/Lucas's-Workspace~d6d3fd50-8876-415b-861e-1ae2630d198c/collection/46841299-45f708f4-84d0-48fa-b80f-69ddfd873944?action=share&creator=46841299&active-environment=46841299-470ab739-b294-4e4d-8326-5de163bf987b)  
-**Présentation** : [Powerpoint](ttps://docs.google.com/presentation/d/1GH0l65HSI2UV_Q5G8WjCDiIe4tLi70Y42eyGU6wKClI/edit?slide=id.p#slide=id.p)  
+**Présentation** : [Powerpoint](https://docs.google.com/presentation/d/1GH0l65HSI2UV_Q5G8WjCDiIe4tLi70Y42eyGU6wKClI/edit?slide=id.p#slide=id.p)  
